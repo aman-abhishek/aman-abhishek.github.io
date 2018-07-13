@@ -4,10 +4,9 @@ layout: default
 
 ## Research
 
-Here are some things that I am working on right now, as well as old projects. Most of this work is exploratory. For finished work, please see [publications](/publications).
+Here are some things that I am working on right now, as well as old projects. The work here exploratory. For finished work, please see [publications](/publications).
 
 
-| | Updated
-|[How tweets go viral, in the context of the US Presidential Debate 2016.](https://aman-abhishek.github.io/research/speed_evolution)|July 10, 2018
+[Virality on Social Media: Evolution of Tweet Diffusal Speed in US Presidential Debates 2016](https://aman-abhishek.github.io/research/speed_evolution)
 
 [back](./)
