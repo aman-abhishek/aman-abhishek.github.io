@@ -291,9 +291,9 @@ div.tocify {
 <h2><span class="header-section-number">4.1</span> Setup</h2>
 <ol style="list-style-type: decimal">
 <li>Make a folder on <em>your</em> laptop where you will be keeping all the pull scripts.</li>
-<li>Place <a href="https://raw.githubusercontent.com/amanabhishk/hadoop_guide/master/hsubmit">this script</a> in the same folder. <em>Do not worry about the extension - there should be no extension</em>.</li>
+<li>Place <a href="https://raw.githubusercontent.com/amanabhishk/hadoop_guide/master/hsubmit">this script</a> in the same folder. Name the file <code>hsubmit</code>, but <em>do not worry about the extension - there should be no extension</em>. The easiest way to do that might be opening the link in your browser and then saving the webpage.</li>
 <li>Open the script in some text editor - TextEdit/Sublime Text on Mac would work. Here too, change <code>your_username_goes_here</code> to your own username (like <code>aabhishek</code>). <em>There is only one place - line 13 - which you will be editing in this step.</em></li>
-<li>Back in your terminal, enter <code>chmod +x hsubmit</code>. This gives the computer the permission to run <code>hsubmit</code> as a script.</li>
+<li>Back in your terminal, navigate to the folder folder you created in the first step, where <code>hsubmit</code> is. Enter <code>chmod +x hsubmit</code>. This gives the computer the permission to run <code>hsubmit</code> as a script.</li>
 </ol>
 <p>What you did just now is set up a script <code>hsubmit</code> which can copy the contents from a job file on your computer to the hadoop server, and run it. Without this script there will be a lot of steps which you would have to do manually, so you’re welcome (<a href="https://github.com/dconathan">Devin Conathan</a> wrote this originally). All the steps in this section need to be done just once, sort of like installing a program - that is why it is titled “Setup”. Now you are set to submit jobs.</p>
 </div>
@@ -323,10 +323,12 @@ div.tocify {
 <p>The output from <code>test.sql</code> is now on the hadoop server. It is not in <code>csv</code> format - its scattered into tiny files. In order to get the job output as a single csv file:</p>
 <ol style="list-style-type: decimal">
 <li>Get onto the hadoop server.</li>
-<li>Do <code>hadoop fs -getmerge gun gun.csv</code> <kbd>Enter</kbd>. Here, <code>-getmerge</code> tells hadoop to merge the tiny files into one file. <code>gun</code> is that raw output which consists of many tiny files. <code>gun.csv</code> is combined csv file, and you can name this anything - <code>anything.csv</code> would work too.</li>
-<li>If you did <code>ls</code> now, you will see <code>gun.csv</code> in the cs directory.</li>
+<li>You can check that your job’s output is there or not by doing <code>hadoop fs -ls</code>. You should see <code>gun</code> when you do so, and the corresponding listed date of file creation should make sense. <code>gun</code> is the raw output which consists of many tiny files - it is not a regular csv file, which is what we want.</li>
+<li>The next step is to use <code>getmerge</code> command to convert the raw <code>gun</code> to <code>gun.csv</code>, where the latter would be the final output. Do do this, do <code>hadoop fs -getmerge gun gun.csv</code>.</li>
+<li>If you did <code>ls</code> now, you will see <code>gun.csv</code> in the cs directory. <code>gun.csv</code> contains the data from your job, ready for analysis and publication!</li>
 </ol>
-<p>Note: <code>gun</code> is the name of the raw output from the pull. The name of the raw output is mentioned in the top line of <code>test.sql</code>. You could change this in the SQL file, and that would change the output name.</p>
+<p>Note 1: <code>gun</code> is the name of the raw output from the pull. The name of the raw output is mentioned in the top line of <code>test.sql</code>. You could change this in the SQL file, and that would change the output name.</p>
+<p>Note 2: The general structure of <code>getmerge</code> command is <code>hadoop fs -getmerge [rawoutputXYZ] [final.csv]</code>, where the name <code>final</code> is of your choosing, and <code>rawoutputXYZ</code> is the name of the raw output.</p>
 </div>
 <div id="moving-the-output-to-your-computer" class="section level2">
 <h2><span class="header-section-number">5.2</span> Moving the output to your computer</h2>
@@ -336,7 +338,7 @@ div.tocify {
 <li><code>scp username@tdc1.cs.wisc.edu:~/gun.csv .</code> (note the period at the end) where <code>username</code> is your username.</li>
 <li>After a progress bar, the csv file should be on your laptop. Check with <code>ls</code>. Open it with some editor. It will be scrambled and columns won’t be labelled (see <a href="#appendix">Appendix</a> for column names).</li>
 </ol>
-<p>In the following sections, you’d learn (in brief) how to write your own jobs, and managing jobs that are running.</p>
+<p>That finishes the first part of the guide, and it doesn’t get much harder than this. In the following sections, you’d learn how to write your own jobs (in brief), and managing jobs that are running.</p>
 </div>
 </div>
 <div id="writing-a-sql-script" class="section level1">
