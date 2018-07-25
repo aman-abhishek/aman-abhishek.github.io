@@ -328,7 +328,7 @@ div.tocify {
 <li>If you did <code>ls</code> now, you will see <code>gun.csv</code> in the cs directory. <code>gun.csv</code> contains the data from your job, ready for analysis and publication!</li>
 </ol>
 <p>Note 1: <code>gun</code> is the name of the raw output from the pull. The name of the raw output is mentioned in the top line of <code>test.sql</code>. You could change this in the SQL file, and that would change the output name.</p>
-<p>Note 2: The general structure of <code>getmerge</code> command is <code>hadoop fs -getmerge [rawoutputXYZ] [final.csv]</code>, where the name <code>final</code> is of your choosing, and <code>rawoutputXYZ</code> is the name of the raw output.</p>
+<p>Note 2: The general structure of <code>getmerge</code> command is <code>hadoop fs -getmerge rawoutputXYZ final.csv</code>, where the name <code>final</code> is of your choosing, and <code>rawoutputXYZ</code> is the name of the raw output.</p>
 </div>
 <div id="moving-the-output-to-your-computer" class="section level2">
 <h2><span class="header-section-number">5.2</span> Moving the output to your computer</h2>
