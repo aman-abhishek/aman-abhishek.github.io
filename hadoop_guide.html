@@ -376,7 +376,7 @@ regexp_replace(retweeted_status.text, '[\\s]+', &quot; &quot;)</code></pre>
 </div>
 <div id="specifying-the-table" class="section level2">
 <h2><span class="header-section-number">6.3</span> Specifying the “table”</h2>
-<p>Data on hadoop exists in different “tables” (files). It is important to know which time period is contained in a table, so that we can decide whether to look in it or not. The contents of the tables can change (<a href="http://alex-hanna.com/">Alex Hanna</a> maintains this so its up to her), but it happens rarely. To get information regarding this, you can do <code>hdfs dfs -ls /user/ahanna/gh*</code> from the hadoop server.</p>
+<p>Data on hadoop exists in different “tables” (files). It is important to know which time period is contained in a table, so that we can decide whether to look in it or not. The contents of the tables can change (<a href="http://alex-hanna.com/">Alex Hanna</a> maintains this so its up to them), but it happens rarely. To get information regarding this, you can do <code>hdfs dfs -ls /user/ahanna/gh*</code> from the hadoop server.</p>
 <p>Today (July 8, 2018), doing so returns the following:</p>
 <pre><code>Found 2 items
 -rw-r--r--   2 ahanna hadoop   1699758080 2014-02-16 18:44 /user/ahanna/gh/gh.20120208.json.gz
@@ -463,8 +463,23 @@ job_201804201535_0498   4   1530079836201   ahanna          NORMAL  NA</code></p
 <p>To terminate the job at the top, you can do <code>mapred job -kill job_201804201535_0452</code>.</p>
 </div>
 </div>
+<div id="advanced" class="section level1">
+<h1><span class="header-section-number">8</span> Advanced</h1>
+<p>You need not go over this section if you’re new to hadoop.</p>
+<div id="finding-all-the-available-fields-in-a-table" class="section level2">
+<h2><span class="header-section-number">8.1</span> Finding all the Available Fields in a Table</h2>
+<p>Section 6.2 <a href="#selecting-fields-from-the-tables">Selecting Fields from the Tables</a> outlined how to select fields from a table. Different tables have different fields, however. The newer tables, like <code>gh_rc3</code> from 2016, contain additional fields such as <code>quoted_status</code>. To check all the fields that are available in a particular table, you can follow the steps below.</p>
+<ol style="list-style-type: decimal">
+<li>Log into hadoop. You would see something like <code>user@hadoop1</code> next to your cursor if you do that successfully.</li>
+<li>Type <code>hive</code> and hit <kbd>Enter</kbd>. You should see something like <code>hive&gt;</code> next to your cursor.</li>
+<li>Type <code>show tables;</code> and hit <kbd>Enter</kbd> to see all the available tables on hadoop (note the semicolon at the end of the command). This would show you tables like <code>gh_rc</code>, <code>gh_rc2</code>, and others.</li>
+<li>To check out the available fields in a table - say <code>gh_rc3</code> - type <code>describe gh_rc3;</code> and hit <kbd>Enter</kbd>. The output might seem hard to read, but you’d see fields such as <code>quoted_status</code> there. If you did <code>describe gh_rc;</code>, you won’t see <code>quoted_status</code>, because that particular functionality did not exist back in 2012/2013.</li>
+<li>To get out of this hive space at any point, type <code>exit;</code> and hit <kbd>Enter</kbd>. This should get you back to <code>user@hadoop1</code> level.</li>
+</ol>
+</div>
+</div>
 <div id="troubleshooting-strategies" class="section level1">
-<h1><span class="header-section-number">8</span> Troubleshooting Strategies</h1>
+<h1><span class="header-section-number">9</span> Troubleshooting Strategies</h1>
 <p>Below are some general things to keep in mind. If you are still stuck on something, please feel free to contact me.</p>
 <ul>
 <li><p>If there is an error in the syntax of your SQL file, you would get to know right when you submit the job. That is, you would never see the percentage completion (see <a href="#appendix">Appendix</a>). Instead, all output from your terminal would disappear and you would see the message <code>screen is terminating</code>. This means there is a mistake somewhere in the SQL file. This is probably the easiest bug to fix because the job never runs to begins with.</p></li>
@@ -475,9 +490,9 @@ job_201804201535_0498   4   1530079836201   ahanna          NORMAL  NA</code></p
 </ul>
 </div>
 <div id="appendix" class="section level1">
-<h1><span class="header-section-number">9</span> Appendix</h1>
+<h1><span class="header-section-number">10</span> Appendix</h1>
 <div id="running-job-sample-output" class="section level2">
-<h2><span class="header-section-number">9.1</span> Running Job Sample Output</h2>
+<h2><span class="header-section-number">10.1</span> Running Job Sample Output</h2>
 <pre><code>Logging initialized using configuration in file:/etc/hive/conf.dist/hive-log4j.properties
 Hive history file=/tmp/aabhishek/hive_job_log_c1bce8d6-5daa-4927-9ac4-a716a2b3f06b_507858846.txt
 Total MapReduce jobs = 3
@@ -492,7 +507,7 @@ Hadoop job information for Stage-1: number of mappers: 26; number of reducers: 0
 2018-02-16 13:35:56,524 Stage-1 map = 17%, reduce = 0%, Cumulative CPU 52.29 sec</code></pre>
 </div>
 <div id="column-names" class="section level2">
-<h2><span class="header-section-number">9.2</span> Column Names</h2>
+<h2><span class="header-section-number">10.2</span> Column Names</h2>
 <pre><code>0 tweet id
 1 created at
 2 user id
