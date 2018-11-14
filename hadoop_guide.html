@@ -407,6 +407,7 @@ drwxr-xr-x   - ahanna hadoop            0 2017-03-07 14:23 /user/ahanna/gh_rc3_r
 <p>The tables that we are interested in are everything except the ones that have <code>raw</code> in their name because, well, they are raw and you can’t eat raw fruits. From above we know that if we want data from 2012, we need to look only in <code>gh_rc</code>; while for 2013, we need to look in <code>gh_rc</code> as well as <code>gh_rc2</code>. This information is useful for the line in the SQL file where you specify the table:</p>
 <p><code>FROM gh_rc</code></p>
 <p>If you want to select two tables (for 2013, for instance), you would have to write everything twice (like <a href="https://github.com/amanabhishk/hadoop_guide/blob/master/examples/numeric_id.sql">here</a>). There is no way to select two tables at once (that I know of).</p>
+<p><strong>Important</strong>: Make sure you check for and remove duplicates while gathering data from multiple tables.</p>
 </div>
 <div id="specifying-the-search-parameters" class="section level2">
 <h2><span class="header-section-number">6.4</span> Specifying the Search Parameters</h2>
