@@ -8,6 +8,8 @@ layout: default
 
 ### Conferences
 
+Lukito, J., Sarma, P., Foley, J. & **Abhishek, A.** (2019). "_Using time series and natural language processing to identify viral moments in the 2016 U.S. Presidential Debate_". Paper presented at the NLP+CSS Workshop of the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics, Minneapolis, USA.
+
 **Abhishek, A.** (2018); "_What Drives Virality on Social Media?_". Presented at the 43rd Annual Conference of Midwest Association for Public Opinion Research, Chicago, USA.
 
 Foley, J. M., Bucy, E. P., Lukito, J., Shah, D. V. & **Abhishek, A.** (2018); "_Dual-screening and Dynamic Communication Flows: The Interplay of Candidate Cues and Social Media Expression during the 2016 Presidential Debates_". Presented at the National Communication Association (NCA) Annual Convention, Salt Lake City, Utah, USA.
