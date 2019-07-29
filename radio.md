@@ -36,6 +36,8 @@ Below are the recordings of the episodes of *World View* that I have contributed
 * [June 30, 2019](https://www.dropbox.com/s/rb0rm6j37qiajyx/June%2030%202019.mp3)
 * [July 7, 2019](https://www.dropbox.com/s/ff3nmuuwgtg63li/July%207%202019.mp3)
 * [July 14, 2019](https://www.dropbox.com/s/uldlh8tkewshh96/July%2014%202019.mp3)
+* [July 21, 2019](https://www.dropbox.com/s/ii8gq1gj58sh5uf/July%2021%202019.mp3)
+* [July 28, 2019](https://www.dropbox.com/s/kvx7tzgzs7l1ics/July%2028%202019.mp3)
 
 ----------------------------------------------------------------------------------------
 
