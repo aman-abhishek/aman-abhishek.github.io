@@ -2,7 +2,19 @@
 layout: default
 ---
 
-## Radio 
+## Activism (Past/Present)
+
+[Equality Labs](https://www.equalitylabs.org/)
+
+[Madison Community Cooperative](https://www.madisoncommunity.coop/)
+
+South Asia Without Borders
+
+[Inclusion Committee at School of Journalism and Mass Communication](https://journalism.wisc.edu/about/diversity-equity-inclusion/)
+
+[WORT 89.9 FM](https://www.wortfm.org/)
+
+<!-- 
 
 I read and write news stories for the show *World View* on [WORT 89.9 FM](https://www.wortfm.org/). WORT is a local, community-run, non-profit radio station. *World View* is the oldest news show on WORT, and it features a half-hour round-up of the week’s international news, followed by a 20-30 minute feature, often a speech or in-depth interview. It is broadcasted on Sundays, 5 PM CST.
 
@@ -46,6 +58,6 @@ Below are the recordings of the episodes of *World View* that I have contributed
 * [September 29, 2019](https://www.dropbox.com/s/l3by7glvqerwglj/September%2029%202019.mp3)
 * [October 6, 2019](https://www.dropbox.com/s/0svqqckslqhsfsk/October%206%202019.mp3)
 
-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------- -->
 
 [back](./)
