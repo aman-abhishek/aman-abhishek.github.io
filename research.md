@@ -41,6 +41,3 @@ Wells, C., Shah, D., Cramer, K., Friedland, L., Wagner, M., **Abhishek, A.**, Fo
 Friedland, L., Wells, C., Shah, D., Wagner, M. & **Abhishek, A.** (2017); "*The Civic State Under Threat: How Social, Political, and Media Changes Eroded Wisconsin’s Civic Culture*".  Presented at the International Communication Association Meetings, San Diego, California, USA.
 
 ----------------------------------------------------------------------------------------
-
-
-[back](./)

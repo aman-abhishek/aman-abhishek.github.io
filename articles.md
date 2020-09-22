@@ -20,4 +20,3 @@ Scroll.in: [_As Black Lives Matter protests grow, Indian students in the US grap
 
 
 
-[back](./)

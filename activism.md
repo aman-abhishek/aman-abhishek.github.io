@@ -59,5 +59,3 @@ Below are the recordings of the episodes of *World View* that I have contributed
 * [October 6, 2019](https://www.dropbox.com/s/0svqqckslqhsfsk/October%206%202019.mp3)
 
 ---------------------------------------------------------------------------------------- -->
-
-[back](./)
