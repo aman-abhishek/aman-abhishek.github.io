@@ -12,6 +12,8 @@ The Wire: [_Big Brother's Patriarchal Authoritarianism_](https://thewire.in/wome
 
 The Wire: [_Hindi Newspapers Look Away as Anand Teltumbde Is Arrested_](https://thewire.in/media/anand-teltumbde-arrest-hindi-newspapers) (April 15, 2020).
 
+----------------------------------------------------------------------------------------
+
 ## Interviews
 
 Scroll.in: [_As Black Lives Matter protests grow, Indian students in the US grapple with fear and hypocrisy_](https://scroll.in/article/964202/as-black-lives-matter-protests-grow-indian-students-in-the-us-grapple-with-fear-and-hypocrisy) (June 11, 2020).
