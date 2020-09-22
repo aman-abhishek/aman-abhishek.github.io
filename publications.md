@@ -2,29 +2,21 @@
 layout: default
 ---
 
-## Publications
+## Articles
 
-Zhang, Y., Shah, D., Foley, J., **Abhishek, A.**, Lukito, J., Suk, J., Kim, S. J., Sun, Z., Pevehouse, J., & Garlough, C. (2019). Whose Lives Matter? Mass Shootings and Social Media Discourses of Sympathy and Policy, 2012–2014. _Journal of Computer-Mediated Communication, 24(4)_, 182–202. [[DOI]](https://doi.org/10.1093/jcmc/zmz009)[[PDF]](https://drive.google.com/file/d/1N4HK6uPriSAhBYcm3MxJwgs6JIipldoi/view?usp=sharing)
+The Wire (June 25, 2020). [_How the Modi Government Manufactured Public Opinion During the Migrant Crisis_](https://thewire.in/media/covid-19-migrant-crisis-public-opinion-modi)
 
-Suk, J., **Abhishek, A.**, Zhang, Y., Ahn, S. Y., Correa, T., Garlough, C., & Shah, D. V. (2019). #MeToo, Networked Acknowledgment, and Connective Action: How “Empowerment Through Empathy” Launched a Social Movement. _Social Science Computer Review_, 1-19. [[DOI]](https://doi.org/10.1093/jcmc/zmz009)
+Kafila.org (June 30, 2020). [_महिला आन्दोलनकारियों की गिरफ्तारियां और भारत सरकार की पितृसत्ता_](https://kafila.online/2020/06/30/%E0%A4%AE%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A4%BE-%E0%A4%86%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8B%E0%A4%B2%E0%A4%A8%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%80/)
 
-Lukito, J., Sarma, P. K., Foley, J., & Abhishek, A. (2019). Using time series and natural language processing to identify viral moments in the 2016 U.S. Presidential Debate. _Third Workshop on Natural Language Processing and Computational Social Science_, 54–64. [[PDF]](https://drive.google.com/file/d/1B7qazOpFsZ38lNb8bcQg1Jzhm25rRWw-/view?usp=sharing)
+The Wire (June 10, 2020). [_Big Brother's Patriarchal Authoritarianism_](https://thewire.in/women/india-patriarchal-authoritarianism-women-arrests)
+
+The Wire (April 15, 2020). [_Hindi Newspapers Look Away as Anand Teltumbde Is Arrested_](https://thewire.in/media/anand-teltumbde-arrest-hindi-newspapers)
+
+## Interviews
+
+Scroll.in (June 11, 2020). [_As Black Lives Matter protests grow, Indian students in the US grapple with fear and hypocrisy_](https://scroll.in/article/964202/as-black-lives-matter-protests-grow-indian-students-in-the-us-grapple-with-fear-and-hypocrisy)
 
 
-<!-- ### Conferences
 
-Lukito, J., Sharma, P., Foley, J. & **Abhishek, A.** (2019). "_Using time series and natural language processing to identify viral moments in the 2016 U.S. Presidential Debate_". Paper presented at the NLP+CSS Workshop of the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics, Minneapolis, USA.
-
-**Abhishek, A.** (2018); "_What Drives Virality on Social Media?_". Presented at the 43rd Annual Conference of Midwest Association for Public Opinion Research, Chicago, USA.
-
-Foley, J. M., Bucy, E. P., Lukito, J., Shah, D. V. & **Abhishek, A.** (2018); "_Dual-screening and Dynamic Communication Flows: The Interplay of Candidate Cues and Social Media Expression during the 2016 Presidential Debates_". Presented at the National Communication Association (NCA) Annual Convention, Salt Lake City, Utah, USA.
-
-Zhang, Y., Shah, D., Foley, J., **Abhishek, A.**, Pevehouse, J., Lukito, J., Kim, S., Suk, J., Yang, F. & Garlough C. (2018); "_The Features of Tragedy, Expressions of Sympathy, and Debates over Policy: A Time Series Analysis of Mass Shootings and Social Media Discourses_". Presented at the 2018 Annual International Communication Association Conference, Prague, Czech Republic.
-
-Wells, C., Friedland, L., Wagner, M., Shah, D., Cramer, K. & **Abhishek, A.** (2018); "*Think Global, Act Local: Populist Themes and Politics during the Wisconsin Recall*". Presented at the 2018 Annual International Communication Association Conference, Prague, Czech Republic.
-
-Wells, C., Shah, D., Cramer, K., Friedland, L., Wagner, M., **Abhishek, A.**, Foley, J., Hughes, C., Metzler, M., Suk, J. & Tischauser, J. (2018); "*Listening Technologies for Understanding Public Opinion*". Presented at The Politics of Contention: Communication, Populism & the Crisis of Democracy Conference held at University of Wisconsin-Madison, Wisconsin, USA.
-
-Friedland, L., Wells, C., Shah, D., Wagner, M. & **Abhishek, A.** (2017); "*The Civic State Under Threat: How Social, Political, and Media Changes Eroded Wisconsin’s Civic Culture*".  Presented at the International Communication Association Meetings, San Diego, California, USA.
  -->
 [back](./)
