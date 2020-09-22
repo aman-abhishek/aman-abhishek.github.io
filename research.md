@@ -10,9 +10,9 @@ layout: default
 
 Zhang, Y., Shah, D., Foley, J., **Abhishek, A.**, Lukito, J., Suk, J., Kim, S. J., Sun, Z., Pevehouse, J., & Garlough, C. (2019). Whose Lives Matter? Mass Shootings and Social Media Discourses of Sympathy and Policy, 2012–2014. _Journal of Computer-Mediated Communication, 24(4)_, 182–202. [[DOI]](https://doi.org/10.1093/jcmc/zmz009), [[PDF]](https://drive.google.com/file/d/1N4HK6uPriSAhBYcm3MxJwgs6JIipldoi/view?usp=sharing).
 
-Suk, J., **Abhishek, A.**, Zhang, Y., Ahn, S. Y., Correa, T., Garlough, C., & Shah, D. V. (2019). #MeToo, Networked Acknowledgment, and Connective Action: How “Empowerment Through Empathy” Launched a Social Movement. _Social Science Computer Review_, 1-19. [[DOI]](https://doi.org/10.1093/jcmc/zmz009).
+Suk, J., **Abhishek, A.**, Zhang, Y., Ahn, S. Y., Correa, T., Garlough, C., & Shah, D. V. (2019). #MeToo, Networked Acknowledgment, and Connective Action: How “Empowerment Through Empathy” Launched a Social Movement. _Social Science Computer Review_, 1-19. [[DOI]](https://doi.org/10.1093/jcmc/zmz009), [[PDF]](https://drive.google.com/file/d/1-AGRKPEFonh2-HijZaCGZEcysy7ady2k/view?usp=sharing).
 
-Lukito, J., Sarma, P. K., Foley, J., & Abhishek, A. (2019). Using time series and natural language processing to identify viral moments in the 2016 U.S. Presidential Debate. _Third Workshop on Natural Language Processing and Computational Social Science_, 54–64. [[PDF]](https://drive.google.com/file/d/1B7qazOpFsZ38lNb8bcQg1Jzhm25rRWw-/view?usp=sharing).
+Lukito, J., Sarma, P. K., Foley, J., & **Abhishek, A.** (2019). Using time series and natural language processing to identify viral moments in the 2016 U.S. Presidential Debate. _Third Workshop on Natural Language Processing and Computational Social Science_, 54–64. [[PDF]](https://drive.google.com/file/d/1B7qazOpFsZ38lNb8bcQg1Jzhm25rRWw-/view?usp=sharing).
 
 ----------------------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ Lukito, J., Sarma, P. K., Foley, J., & Abhishek, A. (2019). Using time series an
 
 ----------------------------------------------------------------------------------------
 
-### Conferences
+### Conference Papers
 
 Lukito, J., Sharma, P., Foley, J. & **Abhishek, A.** (2019). "_Using time series and natural language processing to identify viral moments in the 2016 U.S. Presidential Debate_". Paper presented at the NLP+CSS Workshop of the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics, Minneapolis, USA.
 

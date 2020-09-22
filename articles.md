@@ -18,5 +18,7 @@ The Wire: [_Hindi Newspapers Look Away as Anand Teltumbde Is Arrested_](https://
 
 Scroll.in: [_As Black Lives Matter protests grow, Indian students in the US grapple with fear and hypocrisy_](https://scroll.in/article/964202/as-black-lives-matter-protests-grow-indian-students-in-the-us-grapple-with-fear-and-hypocrisy) (June 11, 2020).
 
+WORT 89.9 FM: _COVID-19 and migrant crisis in India_ (May 10, 2020).
 
+WORT 89.9 FM: _Anti-CAA protests in India and "Holi Against Hate" protest in Madison_ (March 8, 2020).
 
