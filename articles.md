@@ -4,6 +4,10 @@ layout: default
 
 ## Articles
 
+Al Jazeera: [_Academic freedom is under attack in Modi’s India_](https://www.aljazeera.com/opinions/2020/12/18/academic-freedom-is-under-attack-in-modis-india) (December 18, 2020).
+
+Al Jazeera: [_For Facebook, South and Southeast Asia is only a market_](https://www.aljazeera.com/opinions/2020/11/13/for-facebook-south-and-southeast-asia-is-only-a-market/) (November 13, 2020).
+
 The Wire: [_How the Modi Government Manufactured Public Opinion During the Migrant Crisis_](https://thewire.in/media/covid-19-migrant-crisis-public-opinion-modi) (June 25, 2020).
 
 Kafila.org: [_महिला आन्दोलनकारियों की गिरफ्तारियां और भारत सरकार की पितृसत्ता_](https://kafila.online/2020/06/30/%E0%A4%AE%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A4%BE-%E0%A4%86%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8B%E0%A4%B2%E0%A4%A8%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%80/) (June 30, 2020).
@@ -15,6 +19,8 @@ The Wire: [_Hindi Newspapers Look Away as Anand Teltumbde Is Arrested_](https://
 ----------------------------------------------------------------------------------------
 
 ## Interviews/Talks
+
+Wisconsin State Journal: [_'A lot of relief': UW-Madison international students see hope, reset in Biden administration_](https://madison.com/wsj/news/local/education/university/a-lot-of-relief-uw-madison-international-students-see-hope-reset-in-biden-administration/article_c284f9d3-e16c-5393-9187-2a41e37b37eb.html) (November 26, 2020).
 
 Scroll.in: [_As Black Lives Matter protests grow, Indian students in the US grapple with fear and hypocrisy_](https://scroll.in/article/964202/as-black-lives-matter-protests-grow-indian-students-in-the-us-grapple-with-fear-and-hypocrisy) (June 11, 2020).
 
