@@ -8,7 +8,7 @@ layout: default
 
 ### Peer-Reviewed Articles
 
-**Abhishek, A.** (2021). Overlooking the political economy in the research on propaganda. _Harvard Kennedy School (HKS) Misinformation Review_. [[DOI]](https://doi.org/10.37016/mr-2020-61)
+**Abhishek, A.** (2021). Overlooking the political economy in the research on propaganda. _Harvard Kennedy School (HKS) Misinformation Review_. [[DOI]](https://doi.org/10.37016/mr-2020-61), [[PDF]](https://drive.google.com/file/d/1lqxVyzWaRm8LFKjKCTcWlwNDudcDkMG4/view).
 
 Ghosh, S., Su, M. H., **Abhishek, A.**, Suk, J., Tong, C., Kamath, K., Hills, O., Correa, T., Garlough, C., Borah, P., & Shah, D. (2020). Covering #MeToo across the News Spectrum: Political Accusation and Public Events as Drivers of Press Attention. _The International Journal of Press/Politics_, 1-28. [[DOI]](https://doi.org/10.1177%2F1940161220968081), [[PDF]](https://drive.google.com/file/d/1XSd0_Mkdsj5RNJX99iMw7DlMAFi2wLUY/view).
 
