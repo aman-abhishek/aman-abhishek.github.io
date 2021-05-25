@@ -4,6 +4,8 @@ layout: default
 
 ## Articles
 
+Al Jazeera: [_Anti-colonial memory and AMLO’s energy policies_](https://www.aljazeera.com/opinions/2021/5/18/anti-colonial-memory-and-amlos-energy-policies) (May 18, 2021).
+
 Al Jazeera: [_Academic freedom is under attack in Modi’s India_](https://www.aljazeera.com/opinions/2020/12/18/academic-freedom-is-under-attack-in-modis-india) (December 18, 2020).
 
 Al Jazeera: [_For Facebook, South and Southeast Asia is only a market_](https://www.aljazeera.com/opinions/2020/11/13/for-facebook-south-and-southeast-asia-is-only-a-market/) (November 13, 2020).
