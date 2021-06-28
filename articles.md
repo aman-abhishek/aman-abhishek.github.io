@@ -22,7 +22,7 @@ The Wire: [_Hindi Newspapers Look Away as Anand Teltumbde Is Arrested_](https://
 
 ## Interviews/Talks
 
-Wisconsin State Journal: [_Stranded overseas, UW-Madison international students scramble to get here in time for classes_](https://madison.com/wsj/news/local/education/university/stranded-overseas-uw-madison-international-students-scramble-to-get-here-in-time-for-classes/article_5c42c7a9-3424-5730-be71-7f82166cdabd.html#utm_source=madison.com&utm_campaign=%2Femail-updates%2Fwsj-news&utm_medium=PostUp&utm_content=29f8bdda96abc36f77fefc4f80d80427a0c45f1e) (June 20, 2021).
+Wisconsin State Journal: [_Stranded overseas, UW-Madison international students scramble to get here in time for classes_](https://madison.com/wsj/news/local/education/university/stranded-overseas-uw-madison-international-students-scramble-to-get-here-in-time-for-classes/article_5c42c7a9-3424-5730-be71-7f82166cdabd.html) (June 20, 2021).
 
 Wisconsin State Journal: [_'A lot of relief': UW-Madison international students see hope, reset in Biden administration_](https://madison.com/wsj/news/local/education/university/a-lot-of-relief-uw-madison-international-students-see-hope-reset-in-biden-administration/article_c284f9d3-e16c-5393-9187-2a41e37b37eb.html) (November 26, 2020).
 
