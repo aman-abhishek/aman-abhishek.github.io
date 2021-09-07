@@ -4,6 +4,8 @@ layout: default
 
 ## Activism (Past/Present)
 
+[Scholars at Risk](https://www.scholarsatrisk.org/)
+
 [Equality Labs](https://www.equalitylabs.org/)
 
 [Madison Community Cooperative](https://www.madisoncommunity.coop/)
