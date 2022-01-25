@@ -32,7 +32,15 @@ Lukito, J., Sarma, P. K., Foley, J., & **Abhishek, A.** (2019). Using time serie
 
 ### Conference Papers
 
-Lukito, J., Sharma, P., Foley, J. & **Abhishek, A.** (2019). "_Using time series and natural language processing to identify viral moments in the 2016 U.S. Presidential Debate_". Paper presented at the NLP+CSS Workshop of the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics, Minneapolis, USA.
+**Abhishek, A.** (2022); "_A Natural Experiment to Discern the Effect of Advertising on News Coverage_". Paper accepted for the 2022 Annual International Communication Association Conference, Paris, France.
+
+**Abhishek, A.** & Shah, D. (2020); "_Punching Above Their Weight: Broadcast Versus Viral Diffusion of Presidential Debate Posts on Twitter_". Presented at the 2020 Annual International Communication Association Virtual Conference.
+
+Foley, J. M., Borah, P., Bucy, E., Doroshenko, L., **Abhishek, A.**, Sun, Z., Shah, D. & Pevehouse, J. (2020); “_Dual-Screening Campaign Debates: Candidate Cues and the Dynamics of Twitter Response During the 2016 Presidential Debates_”. Presented at the 2020 Annual International Communication Association Virtual Conference.
+
+Lukito, J., Sarma, P., Foley, J., Pevehouse, J., **Abhishek, A.**, Shah, D., Bucy, E., Wells, C. & Pelled, A. (2019); "_Highlights of Two U.S. Presidential Debates: Identifying Candidate Insults that Go Viral_". Presented at the Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC), Toronto, Canada.
+
+Lukito, J., Sharma, P., Foley, J. & **Abhishek, A.** (2019). "_Using time series and natural language processing to identify viral moments in the 2016 U.S. Presidential Debate_". Presented at the NLP+CSS Workshop of the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics, Minneapolis, USA.
 
 **Abhishek, A.** (2018); "_What Drives Virality on Social Media?_". Presented at the 43rd Annual Conference of Midwest Association for Public Opinion Research, Chicago, USA.
 
