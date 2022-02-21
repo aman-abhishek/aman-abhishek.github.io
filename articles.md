@@ -22,6 +22,8 @@ The Wire: [_Hindi Newspapers Look Away as Anand Teltumbde Is Arrested_](https://
 
 ## Interviews/Talks
 
+MIT Tech Review Korea: [_페이스북은 저소득 국가들의 인터넷 접속을 돕고 있을까? (Does Facebook’s Free Basics Help Internet Connectivity in Low-income Countries?)_](https://www.technologyreview.kr/%ed%8e%98%ec%9d%b4%ec%8a%a4%eb%b6%81%ec%9d%80-%ec%a0%80%ec%86%8c%eb%93%9d-%ea%b5%ad%ea%b0%80%eb%93%a4%ec%9d%98-%ec%9d%b8%ed%84%b0%eb%84%b7-%ec%a0%91%ec%86%8d%ec%9d%84-%eb%8f%95%ea%b3%a0-%ec%9e%88/) (February 21, 2022).
+
 Wisconsin State Journal: [_Stranded overseas, UW-Madison international students scramble to get here in time for classes_](https://madison.com/wsj/news/local/education/university/stranded-overseas-uw-madison-international-students-scramble-to-get-here-in-time-for-classes/article_5c42c7a9-3424-5730-be71-7f82166cdabd.html) (June 20, 2021).
 
 Wisconsin State Journal: [_'A lot of relief': UW-Madison international students see hope, reset in Biden administration_](https://madison.com/wsj/news/local/education/university/a-lot-of-relief-uw-madison-international-students-see-hope-reset-in-biden-administration/article_c284f9d3-e16c-5393-9187-2a41e37b37eb.html) (November 26, 2020).
