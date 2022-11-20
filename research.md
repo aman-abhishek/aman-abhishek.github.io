@@ -8,6 +8,9 @@ layout: default
 
 ### Peer-Reviewed Articles
 
+
+**Abhishek, A.** (2022). The State Deputizing Citizens to Discipline Digital News Media: The Case of the IT Rules 2021 in India. _Digital Journalism_. [[DOI]](https://doi.org/10.1080/21670811.2022.2134163), [[PDF]](https://drive.google.com/file/d/1HudTGKzvdO0Mp-gqMIuVoXZ_Re7I03II/view?usp=sharing).
+
 **Abhishek, A.** (2021). Overlooking the political economy in the research on propaganda. _Harvard Kennedy School (HKS) Misinformation Review_. [[DOI]](https://doi.org/10.37016/mr-2020-61), [[PDF]](https://drive.google.com/file/d/1lqxVyzWaRm8LFKjKCTcWlwNDudcDkMG4/view).
 
 Lukito, J., Sarma, P., Foley, J., **Abhishek, A.**, Bucy, E., Doroshenko, L., Sun, Z., Pevehouse, J., Sethares, W., Shah, D. (2021). Resonant Moments in Media Events: Discursive Shifts, Agenda Control, and Twitter Dynamics in the First Clinton-Trump Debate. _Journal of Quantitative Description: Digital Media_, 1-32. [[DOI]](https://doi.org/10.51685/jqd.2021.019), [[PDF]](https://journalqd.org/article/view/2571/1935).
