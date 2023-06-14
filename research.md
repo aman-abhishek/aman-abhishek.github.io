@@ -36,7 +36,7 @@ Lukito, J., Sarma, P. K., Foley, J., & **Abhishek, A.** (2019). Using time serie
 ### Conference Papers
 
 
-**Abhishek, A.** & Graves, L. (2023); "_Analyzing Code: The Editorial Role Of Computational Analysis In Data Journalism Stories_". Presented at the 2023 Annual International Communication Association (ICA) Conference, Toronto, Canada.
+**Abhishek, A.** & Graves, L. (2023); "_Analyzing Code: The Editorial Role of Computational Analysis in Data Journalism Stories_". Presented at the 2023 Annual International Communication Association (ICA) Conference, Toronto, Canada.
 
 **Abhishek, A.** (2022); "_A Natural Experiment to Discern the Effect of Advertising on News Coverage_". Presented at the 2022 Annual International Communication Association Conference, Paris, France.
 
