@@ -35,11 +35,14 @@ Lukito, J., Sarma, P. K., Foley, J., & **Abhishek, A.** (2019). Using time serie
 
 ### Conference Papers
 
-**Abhishek, A.** (2022); "_A Natural Experiment to Discern the Effect of Advertising on News Coverage_". Paper accepted for the 2022 Annual International Communication Association Conference, Paris, France.
 
-**Abhishek, A.** & Shah, D. (2020); "_Punching Above Their Weight: Broadcast Versus Viral Diffusion of Presidential Debate Posts on Twitter_". Presented at the 2020 Annual International Communication Association Virtual Conference.
+**Abhishek, A.** & Graves, L. (2023); "_Analyzing Code: The Editorial Role Of Computational Analysis In Data Journalism Stories_". Presented at the 2023 Annual International Communication Association (ICA) Conference, Toronto, Canada.
 
-Foley, J. M., Borah, P., Bucy, E., Doroshenko, L., **Abhishek, A.**, Sun, Z., Shah, D. & Pevehouse, J. (2020); “_Dual-Screening Campaign Debates: Candidate Cues and the Dynamics of Twitter Response During the 2016 Presidential Debates_”. Presented at the 2020 Annual International Communication Association Virtual Conference.
+**Abhishek, A.** (2022); "_A Natural Experiment to Discern the Effect of Advertising on News Coverage_". Presented at the 2022 Annual International Communication Association Conference, Paris, France.
+
+**Abhishek, A.** & Shah, D. (2020); "_Punching Above Their Weight: Broadcast Versus Viral Diffusion of Presidential Debate Posts on Twitter_". Presented at the 2020 Annual International Communication Association (ICA) Virtual Conference.
+
+Foley, J. M., Borah, P., Bucy, E., Doroshenko, L., **Abhishek, A.**, Sun, Z., Shah, D. & Pevehouse, J. (2020); “_Dual-Screening Campaign Debates: Candidate Cues and the Dynamics of Twitter Response During the 2016 Presidential Debates_”. Presented at the 2020 Annual International Communication Association (ICA) Virtual Conference.
 
 Lukito, J., Sarma, P., Foley, J., Pevehouse, J., **Abhishek, A.**, Shah, D., Bucy, E., Wells, C. & Pelled, A. (2019); "_Highlights of Two U.S. Presidential Debates: Identifying Candidate Insults that Go Viral_". Presented at the Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC), Toronto, Canada.
 
@@ -49,12 +52,12 @@ Lukito, J., Sharma, P., Foley, J. & **Abhishek, A.** (2019). "_Using time series
 
 Foley, J. M., Bucy, E. P., Lukito, J., Shah, D. V. & **Abhishek, A.** (2018); "_Dual-screening and Dynamic Communication Flows: The Interplay of Candidate Cues and Social Media Expression during the 2016 Presidential Debates_". Presented at the National Communication Association (NCA) Annual Convention, Salt Lake City, Utah, USA.
 
-Zhang, Y., Shah, D., Foley, J., **Abhishek, A.**, Pevehouse, J., Lukito, J., Kim, S., Suk, J., Yang, F. & Garlough C. (2018); "_The Features of Tragedy, Expressions of Sympathy, and Debates over Policy: A Time Series Analysis of Mass Shootings and Social Media Discourses_". Presented at the 2018 Annual International Communication Association Conference, Prague, Czech Republic.
+Zhang, Y., Shah, D., Foley, J., **Abhishek, A.**, Pevehouse, J., Lukito, J., Kim, S., Suk, J., Yang, F. & Garlough C. (2018); "_The Features of Tragedy, Expressions of Sympathy, and Debates over Policy: A Time Series Analysis of Mass Shootings and Social Media Discourses_". Presented at the 2018 Annual International Communication Association (ICA) Conference, Prague, Czech Republic.
 
-Wells, C., Friedland, L., Wagner, M., Shah, D., Cramer, K. & **Abhishek, A.** (2018); "*Think Global, Act Local: Populist Themes and Politics during the Wisconsin Recall*". Presented at the 2018 Annual International Communication Association Conference, Prague, Czech Republic.
+Wells, C., Friedland, L., Wagner, M., Shah, D., Cramer, K. & **Abhishek, A.** (2018); "*Think Global, Act Local: Populist Themes and Politics during the Wisconsin Recall*". Presented at the 2018 Annual International Communication Association (ICA) Conference, Prague, Czech Republic.
 
 Wells, C., Shah, D., Cramer, K., Friedland, L., Wagner, M., **Abhishek, A.**, Foley, J., Hughes, C., Metzler, M., Suk, J. & Tischauser, J. (2018); "*Listening Technologies for Understanding Public Opinion*". Presented at The Politics of Contention: Communication, Populism & the Crisis of Democracy Conference held at University of Wisconsin-Madison, Wisconsin, USA.
 
-Friedland, L., Wells, C., Shah, D., Wagner, M. & **Abhishek, A.** (2017); "*The Civic State Under Threat: How Social, Political, and Media Changes Eroded Wisconsin’s Civic Culture*".  Presented at the International Communication Association Meetings, San Diego, California, USA.
+Friedland, L., Wells, C., Shah, D., Wagner, M. & **Abhishek, A.** (2017); "*The Civic State Under Threat: How Social, Political, and Media Changes Eroded Wisconsin’s Civic Culture*".  Presented at the International Communication Association (ICA) Meetings, San Diego, California, USA.
 
 ----------------------------------------------------------------------------------------
