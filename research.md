@@ -8,6 +8,7 @@ layout: default
 
 ### Peer-Reviewed Articles
 
+**Abhishek, A.** & Graves, L. (2024). Analyzing Code: What a Critical Code Studies Approach Reveals About the Epistemology of Data Journalism. _Digital Journalism_. [[DOI]](https://doi.org/10.1080/21670811.2024.2345205), [[PDF]](https://drive.google.com/file/d/17PWxq24Es87pIPJIkcZ0uGrFhV0zPgex/edit)
 
 **Abhishek, A.** (2022). The State Deputizing Citizens to Discipline Digital News Media: The Case of the IT Rules 2021 in India. _Digital Journalism_. [[DOI]](https://doi.org/10.1080/21670811.2022.2134163), [[PDF]](https://drive.google.com/file/d/1HudTGKzvdO0Mp-gqMIuVoXZ_Re7I03II/view?usp=sharing).
 
